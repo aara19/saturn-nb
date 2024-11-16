@@ -1,6 +1,6 @@
 {
-  "name": "web",
-  "homepage": "https://jindalujjwal0720.github.io",
+  "name": "saturn-nb",
+  "homepage": "https://aara19.github.io/saturn-nb",
   "version": "0.1.0",
   "dependencies": {
     "@babel/runtime": "^7.23.2",
