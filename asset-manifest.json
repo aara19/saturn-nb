@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saturn-nb/static/css/main.c3a3e74c.css",
+    "main.js": "/saturn-nb/static/js/main.9e3a9aaa.js",
+    "index.html": "/saturn-nb/index.html",
+    "main.c3a3e74c.css.map": "/saturn-nb/static/css/main.c3a3e74c.css.map",
+    "main.9e3a9aaa.js.map": "/saturn-nb/static/js/main.9e3a9aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a3e74c.css",
+    "static/js/main.9e3a9aaa.js"
+  ]
+}
