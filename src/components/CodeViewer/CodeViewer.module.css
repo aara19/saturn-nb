@@ -1,0 +1,15 @@
+.codePre {
+  background-color: var(--color-gray-100);
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  font-family: "Fira Code", monospace;
+  font-weight: 400;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.codePre * {
+  word-wrap: break-word;
+}
